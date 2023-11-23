@@ -1,4 +1,4 @@
-<h1 align="center">Discord: darby#0001</h1>
+<h1 align="center">Discord: darby#0001 or .keyof</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ICEatm&label=Profile%20views&color=0e75b6&style=flat" alt="ICEatm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ICEatm" alt="ICEatm" /></a> </p>
